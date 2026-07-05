@@ -246,7 +246,9 @@ nav a:hover {
 
 .lore-image {
 
-    width: 100%;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
 
     border-radius: 12px;
 

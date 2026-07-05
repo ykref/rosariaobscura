@@ -146,8 +146,8 @@ const characters = [
 
 {
     name: "ミゼリア(cast)",
-    image: "images/placeholder.jpg",
-    description: "？？？"
+    image: "images/mise.png",
+    description: "天界において“救済”を司っていた大天使。“正しいだけの救済”を嫌っている。<br>「うふふ、人間って本当に感情が忙しくて可愛らしいですわねぇ♪」"
 },
 
 {
