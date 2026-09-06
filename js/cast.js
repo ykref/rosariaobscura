@@ -154,8 +154,8 @@ const characters = [
 
 {
     name: "ディノス(cast)",
-    image: "images/placeholder.jpg",
-    description: "？？？"
+    image: "images/dinosRe.png",
+    description: "眠りの精霊ヒュプノスと獏の混血。神、神獣への成り損ない。<br>「眠りへ誘おう。それが君と私の望みだから。さて、君の夢はどんな味がする？」"
 },
 
 {
