@@ -171,9 +171,9 @@ const characters = [
 },
 
 {
-    name: "？？？",
-    image: "images/placeholder.jpg",
-    description: "？？？"
+    name: "イザベル(cast)",
+    image: "images/isabelleRe.png",
+    description: "赤薔薇の魔女。<br>「妾は人間が嫌いじゃ。それを飲んでさっさと帰るとよい。」"
 },
 
 {
